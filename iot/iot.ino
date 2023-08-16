@@ -24,7 +24,7 @@ zubydah
   </head>
 
   <body class="index">
-    <div id="fb-root"></div>
+    <div id="set setting fb"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
@@ -100,7 +100,9 @@ zubydah
 
     </div>
 
-   
+    <footer class="footer row">
+      <div class="columns">
+        <div class="footer_lists-container row collapse">
           <div class="footer_social columns large-2">
             <ul class="social">
   <li class="twitter"><a href="https://twitter.com/apachefriends">Follow us on Twitter</a></li>
