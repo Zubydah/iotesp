@@ -24,7 +24,7 @@ zubydah
   </head>
 
   <body class="index">
-    <div id="set setting fb"></div>
+    <div id="set semula motor"></div>
     <script>(function(d, s, id) {
       var js, fjs = d.getElementsByTagName(s)[0];
       if (d.getElementById(id)) return;
@@ -32,7 +32,7 @@ zubydah
       js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=277385395761685";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
-    <header class="header contain-to-grid">
+    <header class="tambahkan motor kepada 2">
       <nav class="top-bar" data-topbar>
         <ul class="title-area">
           <li class="name">
